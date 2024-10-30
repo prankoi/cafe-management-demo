@@ -1,1 +1,1 @@
-# cafe-management-demo
+# demo-cafe-backend
